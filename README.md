@@ -1,10 +1,10 @@
 ### Hello All 👋
 
-I am serial entrepreneur, hacky code writer and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently in geeking out on the work on the [Platformatic](http://Platformatic.dev) team and their work to lower the challenges of code-ownership by removing boilerplate code from APIs.
+I am serial entrepreneur, hacky-coder and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently geeking out on the work on the [Platformatic](http://Platformatic.dev) team and their vision to lower the challenges of code-ownership by removing boilerplate code from APIs.
 
-Just left a startup, and looking for something new. Very interested in the fusion of capital and tech to solve and improve healthcare outcomes in research.
+Just left a startup, and looking for something new. Very interested in the fusion of capital/wealth and web technologies to spedd up outcomes in research & healthcare. 💬 Ask me about how I want to make an impact.
 
-Also exploring the world of no-code, low-code solutions and patterns. Thinking about how much code/time I could have saved in my last company. Dreaming of startup build 95% on no-code.
+Also exploring the world of no-code, low-code solutions and patterns. ⚡ Thinking about how much code+time I could have saved in my last company if I had coded less and reused more. Dreaming of tech startup built 95% on no-code patterns.
 
 <!--
 **d1b1/d1b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
