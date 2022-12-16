@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello All 👋
+
+I am serial entrepreneur, hacky code writer and tech solution follower. I love 
+good tech. I love a well written libraries that make building new things fun.
+
+Currently in love with the work on the Platformatic.dev team and their 
+work to lower the challenges of code-ownership by setting up new patterns
+that cut way down on boilerplate.
 
 <!--
 **d1b1/d1b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
