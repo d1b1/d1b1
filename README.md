@@ -1,11 +1,8 @@
 ### Hello All 👋
 
-I am serial entrepreneur, hacky code writer and tech solution follower. I love 
-good tech. I love a well written libraries that make building new things fun.
+I am serial entrepreneur, hacky code writer and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently in geeking out on the work on the Platformatic.dev team and their work to lower the challenges of code-ownership by removing boilerplate code from APIs.
 
-Currently in love with the work on the Platformatic.dev team and their 
-work to lower the challenges of code-ownership by setting up new patterns
-that cut way down on boilerplate.
+Just left a startup, and looking for something new. Very interested in the fusion of capital and tech to solve and improve healthcare outcomes in research.
 
 <!--
 **d1b1/d1b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
