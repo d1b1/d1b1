@@ -1,6 +1,6 @@
 ### Hello All 👋
 
-I am serial entrepreneur, hacky code writer and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently in geeking out on the work on the Platformatic.dev team and their work to lower the challenges of code-ownership by removing boilerplate code from APIs.
+I am serial entrepreneur, hacky code writer and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently in geeking out on the work on the [Platformatic](http://Platformatic.dev) team and their work to lower the challenges of code-ownership by removing boilerplate code from APIs.
 
 Just left a startup, and looking for something new. Very interested in the fusion of capital and tech to solve and improve healthcare outcomes in research.
 
