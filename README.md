@@ -4,6 +4,8 @@ I am serial entrepreneur, hacky code writer and tech solution follower. I really
 
 Just left a startup, and looking for something new. Very interested in the fusion of capital and tech to solve and improve healthcare outcomes in research.
 
+Also exploring the world of no-code, low-code solutions and patterns. Thinking about how much code/time I could have saved in my last company. Dreaming of startup build 95% on no-code.
+
 <!--
 **d1b1/d1b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
