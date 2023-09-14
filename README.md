@@ -1,22 +1,11 @@
-### Hello All 👋
+### Fractional CTO 
 
-I am serial entrepreneur, hacky-coder and tech solution follower. I really love the fusion of new solutions and disruptive patterns. Currently geeking out on the work on the [Platformatic](http://Platformatic.dev) team and their vision to lower the challenges of code-ownership by removing boilerplate code from APIs.
+I am your fractional CTO solution, for non-YC founders and their first idea to a proof of concept, pitch deck, and GTM plan. I focused on Web SAS concepts which need a unique blend of tech services.
 
-Just left a startup, and looking for something new. Very interested in the fusion of capital/wealth and web technologies to spedd up outcomes in research & healthcare. 💬 Ask me about how I want to make an impact.
+- Are you a founder who needs technology but does not know how to provide the initial concept?
 
-Also exploring the world of no-code, low-code solutions and patterns. ⚡ Thinking about how much code+time I could have saved in my last company if I had coded less and reused more. Dreaming of tech startup built 95% on no-code patterns.
+- Do you need help telling a tech story to angels and investors?
 
-<!--
-**d1b1/d1b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Are you stuck knowing how to make a tech selection?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- For larger startups, I help provide a CTO Tech Lens for your leadership team. I help your teams get context for tech trends and new opportunities.
